@@ -3,8 +3,8 @@
 前端
 
 ## 技术栈
-  -vue
-  -vuetify
+  - vue
+  - vuetify
 
 项目运行：
 ```shell
